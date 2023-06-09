@@ -1,0 +1,31 @@
+.Nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: #27374D;
+}
+
+.Nav--container {
+  width: 30%;
+}
+
+.Nav--container img {
+  width: 50%;
+}
+
+.Nav-items {
+  display: flex;
+}
+
+.Nav-items ul {
+  margin-right: 25px;
+  font-size: 18px;
+  color: white;
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.Nav-items--link {
+  color: white;
+}
